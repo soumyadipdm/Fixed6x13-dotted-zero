@@ -11,8 +11,7 @@ For Windows, use FixedMedium.fon
 Screenshots:
 
 ![Alt text](./scr/capture1.png?raw=true "Screenshot 1")
-![Alt text](./scr/capture2.png?raw=true "Screenshot 2")
-![Alt text](./scr/capture3.png?raw=true "Screenshot 2")
+![Alt text](./scr/capture3.png?raw=true "Screenshot 3")
 
 
 ##Known Issues:
