@@ -33014,7 +33014,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 13 4121 11 2 1 Misc
+BitmapFont: 13 4122 11 2 1 Misc
 BDFStartProperties: 27
 COMMENT 1 "$Id: 6x13.bdf,v 1.115 2009-04-06 18:50:15+01 mgk25 Rel $"
 COMMENT 1 "Send bug reports to Markus Kuhn <http://www.cl.cam.ac.uk/~mgk25/>"
@@ -33200,7 +33200,7 @@ BDFChar: 75 106 6 0 3 -2 7
 BDFChar: 76 107 6 0 4 0 8
 J:N03TYR4^L]@DT
 BDFChar: 77 108 6 1 3 0 8
-^d(.M5X7S"huE`W
+^d(.M5X7S"?iU0,
 BDFChar: 78 109 6 0 4 0 5
 d&<nAW/(ER
 BDFChar: 79 110 6 0 4 0 5
@@ -33237,7 +33237,7 @@ BDFChar: 94 125 6 0 4 -1 9
 ^`XaB+;c4D+<\H"
 BDFChar: 95 126 6 0 4 6 8
 8>qUM
-BDFChar: 96 160 6 5 5 -2 -2
+BDFChar: 96 32 6 5 5 -2 -2
 z
 BDFChar: 97 161 6 2 2 0 8
 J,k+MJ:N0#J,fQL
@@ -33263,7 +33263,7 @@ BDFChar: 107 171 6 0 4 1 6
 -r?S0:ac;D
 BDFChar: 108 172 6 0 4 2 4
 p]q-*
-BDFChar: 109 173 6 1 3 4 4
+BDFChar: 109 45 6 1 3 4 4
 huE`W
 BDFChar: 110 174 6 0 4 1 9
 E/<`1f]^tDDu]k<
@@ -33993,9 +33993,9 @@ BDFChar: 472 536 6 0 4 -2 8
 E/9$pE!Q`*E$.CG
 BDFChar: 473 537 6 0 4 -2 5
 E/7m5Li=J%
-BDFChar: 474 538 6 0 4 -2 8
+BDFChar: 474 354 6 0 4 -2 8
 p`L\%+<VdL+:oXq
-BDFChar: 475 539 6 0 4 -2 7
+BDFChar: 475 355 6 0 4 -2 7
 5X=g(5X7jo&0LrQ
 BDFChar: 476 540 6 0 4 0 8
 n;%>]0LuH\huE`W
@@ -34281,7 +34281,7 @@ BDFChar: 616 711 6 1 4 8 9
 OC/%g
 BDFChar: 617 712 6 2 2 6 8
 J:N.M
-BDFChar: 618 713 6 1 4 8 8
+BDFChar: 618 175 6 1 4 8 8
 n,NFg
 BDFChar: 619 714 6 2 3 7 8
 5_&h7
@@ -34585,7 +34585,7 @@ BDFChar: 768 914 6 0 4 0 8
 n;)mVn;)mVn,NFg
 BDFChar: 769 915 6 0 4 0 8
 pjdmFJ:N0#J,fQL
-BDFChar: 770 916 6 0 4 0 8
+BDFChar: 770 8710 6 0 4 0 8
 +<XKW:l'p`p](9o
 BDFChar: 771 917 6 0 4 0 8
 pjdmFn:6%>p](9o
@@ -34625,7 +34625,7 @@ BDFChar: 788 935 6 0 4 0 8
 Lknl(+AbmjL]@DT
 BDFChar: 789 936 6 0 4 0 8
 W2QYnW,Nk%+92BA
-BDFChar: 790 937 6 0 4 0 8
+BDFChar: 790 8486 6 0 4 0 8
 E/9=+Lknl(fDkmO
 BDFChar: 791 938 6 0 4 0 9
 fDok5+<VdL+E.;\
@@ -34663,7 +34663,7 @@ BDFChar: 807 954 6 0 4 0 5
 Lle:fOGEl:
 BDFChar: 808 955 6 0 4 0 8
 E/4d5R#$QSL]@DT
-BDFChar: 809 956 6 0 4 -2 5
+BDFChar: 809 181 6 0 4 -2 5
 LkpkCR-9'N
 BDFChar: 810 957 6 0 4 0 5
 Lkpj`:`o`<
@@ -37971,7 +37971,7 @@ BDFChar: 2461 8723 6 0 4 1 7
 p])EZp`L[Z
 BDFChar: 2462 8724 6 0 4 1 7
 +93N,p`L[Z
-BDFChar: 2463 8725 6 0 4 0 8
+BDFChar: 2463 8260 6 0 4 0 8
 #RCtQ+<Wp7J,fQL
 BDFChar: 2464 8726 6 0 4 0 7
 J3Z@B+:o(i
@@ -37979,7 +37979,7 @@ BDFChar: 2465 8727 6 0 4 1 7
 +K08SE2XlZ
 BDFChar: 2466 8728 6 1 3 3 5
 5bL@B
-BDFChar: 2467 8729 6 1 3 3 5
+BDFChar: 2467 183 6 1 3 3 5
 5i=m-
 BDFChar: 2468 8730 6 0 5 -2 9
 "9\i5#RD!'OC2H=

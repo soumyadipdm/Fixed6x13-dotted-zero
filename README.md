@@ -3,10 +3,21 @@ Popular Fixed Width X11 font with dotted zero
 
 This is a bit modified version of one of the fixed-width fonts distributed with X11, 6x13.bdf. The original font can be found here: https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
 
-The original font did not have dotted zero, this modification is solely for that.
+##Features:
+1. Dotted Zero
+2. Curved 'l' (smallercase "ell")
+
+Here's original font:
+
+![Alt text](./scr/capture20.png?raw=true "Original Font")
+
+Here's my modified version:
+
+![Alt text](./scr/capture21.png?raw=true "Original Font")
 
 For Mac, use FixedMedium.dfont
 For Windows, use FixedMedium.fon
+For Linux, use FixedMedium-13.bdf
 
 Screenshots:
 
